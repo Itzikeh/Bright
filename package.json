@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@brightdata/mcp": "^1.0.0"
+  }
+}
